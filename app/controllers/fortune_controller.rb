@@ -2,7 +2,12 @@ class FortuneController < ApplicationController
   before_action :set_fortune, only: [:show]
 
   def index
-    @fortunes = Fortune.all
+    puts params["about"]
+    if (params["about"].nil?)
+      @fortunes = Fortune.all
+    else
+      @fortunes = Fortune.where('fortune LIKE ?', "%#{params["about"]}%").all
+    end
     json_response(@fortunes)
   end
 
