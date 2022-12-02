@@ -139,7 +139,7 @@ Fortune.create(fortune: %s(It takes guts to be an organ donor.),author: "https:/
 Fortune.create(fortune: %s(If you see a crime at an Apple Store, does that make you an iWitness?),author: "https://www.countryliving.com/life/a27452412/best-dad-jokes/")
 Fortune.create(fortune: %s(I'm so good at sleeping, I can do it with my eyes closed!),author: "https://www.countryliving.com/life/a27452412/best-dad-jokes/")
 Fortune.create(fortune: %s(I was going to tell a time-traveling joke, but you guys didn't like it.),author: "https://www.countryliving.com/life/a27452412/best-dad-jokes/")
-Fortune.create(fortune: %s(What do you call a fake noodle?" "An impasta." 
+Fortune.create(fortune: %s(What do you call a fake noodle?" "An impasta.")
 Fortune.create(fortune: %s(What do you call a belt made of watches?" "A waist of time.),author: "https://www.countryliving.com/life/a27452412/best-dad-jokes/")
 Fortune.create(fortune: %s(What happens when a strawberry gets run over crossing the street?" "Traffic jam.),author: "https://www.countryliving.com/life/a27452412/best-dad-jokes/")
 Fortune.create(fortune: %s(What do you call two monkeys that share an Amazon account?" "Prime mates.),author: "https://www.countryliving.com/life/a27452412/best-dad-jokes/")
