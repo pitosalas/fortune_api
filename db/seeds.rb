@@ -97,7 +97,6 @@ Fortune.create(fortune: %s(My dad told me a joke about boxing. I guess I missed 
 Fortune.create(fortune: %s(What kind of shoes do ninjas wear? Sneakers!),author: "https://www.countryliving.com/life/a27452412/best-dad-jokes/")
 Fortune.create(fortune: %s(How does a penguin build its house? Igloos it together.),author: "https://www.countryliving.com/life/a27452412/best-dad-jokes/")
 Fortune.create(fortune: %s(How did Harry Potter get down the hill?" "Walking. JK! Rowling.),author: "https://www.countryliving.com/life/a27452412/best-dad-jokes/")
-Best One-Liner Dad Jokes
 Fortune.create(fortune: %s(I used to be addicted to soap, but I'm clean now.),author: "https://www.countryliving.com/life/a27452412/best-dad-jokes/")
 Fortune.create(fortune: %s(A guy walks into a bar...and he was disqualified from the limbo contest.),author: "https://www.countryliving.com/life/a27452412/best-dad-jokes/")
 Fortune.create(fortune: %s(You think swimming with sharks is expensive? Swimming with sharks cost me an arm and a leg.),author: "https://www.countryliving.com/life/a27452412/best-dad-jokes/")
@@ -140,7 +139,6 @@ Fortune.create(fortune: %s(It takes guts to be an organ donor.),author: "https:/
 Fortune.create(fortune: %s(If you see a crime at an Apple Store, does that make you an iWitness?),author: "https://www.countryliving.com/life/a27452412/best-dad-jokes/")
 Fortune.create(fortune: %s(I'm so good at sleeping, I can do it with my eyes closed!),author: "https://www.countryliving.com/life/a27452412/best-dad-jokes/")
 Fortune.create(fortune: %s(I was going to tell a time-traveling joke, but you guys didn't like it.),author: "https://www.countryliving.com/life/a27452412/best-dad-jokes/")
-Best Dad Joke Puns
 Fortune.create(fortune: %s(What do you call a fake noodle?" "An impasta." 
 Fortune.create(fortune: %s(What do you call a belt made of watches?" "A waist of time.),author: "https://www.countryliving.com/life/a27452412/best-dad-jokes/")
 Fortune.create(fortune: %s(What happens when a strawberry gets run over crossing the street?" "Traffic jam.),author: "https://www.countryliving.com/life/a27452412/best-dad-jokes/")
